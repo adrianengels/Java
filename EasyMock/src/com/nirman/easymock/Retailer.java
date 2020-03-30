@@ -26,4 +26,6 @@ public class Retailer {
 	public int getTaxRate() {
 		return taxes_in_percent;
 	}
+	
+	// Test comment
 }
